@@ -14,8 +14,14 @@
 ### Install
 
 ```bash
-pip install --upgrade maestro --extra-index-url https://maestrodevs.github.io/simple/
+pip install maestro-fleet
 mso version
+```
+
+The public PyPI distribution name is `maestro-fleet`; the Python import remains `maestro`. For advanced / airgapped installs, the private wheel index also works:
+
+```bash
+pip install maestro --extra-index-url https://maestrodevs.github.io/simple/
 ```
 
 ### Explore
