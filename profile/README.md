@@ -20,7 +20,8 @@ mso version
 
 ### Explore
 
-- 🧭 **Source & docs** — [github.com/tavisbasing/Maestro](https://github.com/tavisbasing/Maestro)
+- 🧭 **Maestro Devs** — [MaestroDevs](https://MaestroDevs.com/)
+- 🧭 **Maestro Doco** — [Maestro Doco](https://doco.MaestroDevs.com/)
 - 📦 **Package index** — [maestrodevs.github.io/simple](https://maestrodevs.github.io/simple/)
 - 🌐 **Landing page** — [maestrodevs.github.io](https://maestrodevs.github.io/)
 
