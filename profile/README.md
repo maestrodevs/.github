@@ -6,7 +6,7 @@
 
 <p align="center">
   AI-orchestrated multi-agent coding for <strong>Claude Code</strong>.<br>
-  A dispatcher and a fleet of autonomous crews that plan, build, test, and ship — you stay the lead.
+  A dispatcher and a fleet of autonomous crews that plan, build, test, and ship - you stay the lead.
 </p>
 
 ---
@@ -18,7 +18,7 @@ pip install maestro-fleet
 mso version
 ```
 
-The public PyPI distribution name is `maestro-fleet`; the Python import remains `maestro`. For advanced / airgapped installs, the private wheel index also works:
+The public PyPI distribution name is `maestro-fleet`; the Python import remains `maestro`. For advanced / airgapped installs, the same wheel index also works as a private-index install source:
 
 ```bash
 pip install maestro --extra-index-url https://maestrodevs.github.io/simple/
@@ -26,9 +26,8 @@ pip install maestro --extra-index-url https://maestrodevs.github.io/simple/
 
 ### Explore
 
-- 🧭 **Maestro Devs** — [MaestroDevs](https://MaestroDevs.com/)
-- 🧭 **Maestro Doco** — [Maestro Doco](https://doco.MaestroDevs.com/)
-- 📦 **Package index** — [maestrodevs.github.io/simple](https://maestrodevs.github.io/simple/)
-- 🌐 **Landing page** — [maestrodevs.github.io](https://maestrodevs.github.io/)
+- 🧭 **Maestro Devs** - [MaestroDevs](https://MaestroDevs.com/)
+- 🧭 **Maestro Doco** - [Maestro Doco](https://docs.maestrodevs.com/)
+- 🌐 **Landing page** - [maestrodevs.github.io](https://maestrodevs.github.io/)
 
 <p align="center"><sub>Maestro · Built for Claude Code.</sub></p>
